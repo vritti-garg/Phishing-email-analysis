@@ -6,7 +6,7 @@ The objective of this task is to identify phishing characteristics in a suspicio
 
 *In this section, I have analyzed a sample phishing email impersonating Netflix and identified the following malicious characteristics.*
 
-[Netflix Phishing Sample](Netflix_phishing_email.png)
+[Netflix Phishing Sample](Netflix_phishing_email.jpg)
 
 ### Phishing Indicators Found
 
