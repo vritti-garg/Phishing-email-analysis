@@ -21,3 +21,9 @@ The objective of this task is to identify phishing characteristics in a suspicio
 **Inconsistent Messaging:** The email first states that a payment could not be authorized, but later says "simply restart your membership", which implies the user has already canceled. This conflicting language is a common mistake in phishing emails.
 
 This email is a clear example of social engineering. Attackers create a sense of **fear** (that your subscription will be canceled) and **urgency** (by mentioning a specific failed payment date) to manipulate you. By exploiting these emotions, they pressure you into clicking the "TRY AGAIN PAYMENT" button before you have time to think logically about the suspicious sender address and other red flags.
+
+---
+## 👤 Author
+
+* **Vritti Garg**
+* [LinkedIn](https://www.linkedin.com/in/vritti-garg-682667284/)
